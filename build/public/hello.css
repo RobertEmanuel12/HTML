@@ -1,0 +1,10 @@
+#hello{
+    font-size: 200px;
+    color: darkcyan;
+    font-family: cursive;
+}
+body{
+    background-color: darkgray;
+    margin: 50px;
+    padding: 50px;
+}
